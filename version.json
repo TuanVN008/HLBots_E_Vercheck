@@ -1,9 +1,9 @@
 {
-    "version": "V10",
+    "version": "V15",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
-        "text": "Welcome to use Rise of Kingdoms Bot, check update on",
+        "text": "Check update on",
         "row": 0,
         "column": 0
     },
