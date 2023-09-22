@@ -1,5 +1,6 @@
 {
     "version": "V21.7",
+    "message": 'Update Gem'
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
