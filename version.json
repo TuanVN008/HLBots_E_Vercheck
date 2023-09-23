@@ -1,6 +1,6 @@
 {
-    "version": "V22",
-    "message": "Update Gem",
+    "version": "V22.1",
+    "message": "Automatically solve captcha for customers using 1-window key",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
