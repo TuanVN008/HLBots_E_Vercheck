@@ -1,0 +1,18 @@
+{
+    "version": "V22.1",
+    "message": "Automatically solve captcha for customers using 1-window key",
+    "shouldUpdateInfo": true,
+    "label": {
+        "update": true,
+        "text": "",
+        "row": 0,
+        "column": 0
+    },
+    "link": {
+        "update": true,
+        "text": "RISEBOTBRASIL.COM",
+        "url": "https://risebotbrasil.com",
+        "row": 0,
+        "column": 1
+    }
+}
