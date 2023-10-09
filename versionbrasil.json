@@ -1,6 +1,6 @@
 {
-    "version": "V22.1",
-    "message": "Automatically solve captcha for customers using 1-window key",
+    "version": "V23",
+    "message": "1. Select the gem collection location by entering the coordinates in the game\n instead of clicking the gem collection location button\n2. Change the bot interface\n3. Add the feature of customizing material production",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
