@@ -1,6 +1,6 @@
 {
-    "version": "V23.1",
-    "message": "1. Select the gem collection location by entering the coordinates in the game\n instead of clicking the gem collection location button\n2. Change the bot interface\n3. Add the feature of customizing material production\n4. Find gems quickly in a customized horizontal and vertical direction, without getting stuck in the pass\n 5. Zoom out to the optimal position to find gem mines\n 6. Add options for soldiers to camp at the temple or not while on the go collect gem\n 7. Clear the old update notification window before issuing the new notification",
+    "version": "V23.2",
+    "message": "1. Fix the error of coordinates shifting too much at the starting point\n2. Increase swipes to 10 or 15 as desired to increase the area to find gem mines\n3. Reduce waiting time, increase gem mining speed\n 4. Fix attack marauders",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
