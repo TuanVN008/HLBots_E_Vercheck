@@ -1,6 +1,6 @@
 {
-    "version": "V23.2",
-    "message": "1. Fix the error of coordinates shifting too much at the starting point\n2. Increase swipes to 10 or 15 as desired to increase the area to find gem mines\n3. Reduce waiting time, increase gem mining speed\n 4. Fix attack marauders",
+    "version": "V23.3",
+    "message": "When looking for a gem mine to the end point, circle back to search instead of going to the starting point",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
