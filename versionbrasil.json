@@ -1,6 +1,6 @@
 {
-    "version": "V23.3",
-    "message": "When looking for a gem mine to the end point, circle back to search instead of going to the starting point",
+    "version": "V23.7",
+    "message": "If automatic updates fail, go here: https://hlbots.net/how-to-update/",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
