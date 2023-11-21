@@ -1,6 +1,6 @@
 {
-    "version": "V23.8",
-    "message": "1. Fix change character and email\n2. If automatic updates fail, go here: https://hlbots.net/",
+    "version": "V23.9.3",
+    "message": "0. Add the feature to automatically turn off and on the emulator to farm resources with less ban\n1. Optimize resource collection\n2. Fix bug of dragging fighting army to farm Gem\n3. Fix the feature of disabling and enabling automatic reconnection emulation in version LD9\n4. Fix CPU overflow error when using the emulation shutdown feature to pause auto\n5. Note: Do not delete the adb file in the LDPlayer installation folder\n6. If automatic update fails, please visit https://hlbots.net/ to update manually",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
