@@ -1,6 +1,6 @@
 {
-    "version": "V23.9.4",
-    "message": "1. Fix mine finding error in new game update\n2. Add a few random actions to avoid soldier restrictions\n3. If automatic update fails, please visit https://hlbots.net/ to update manually",
+    "version": "V23.9.5",
+    "message": "1. Fix captcha\n2. If automatic update fails, please visit https://hlbots.net/ to update manually",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
