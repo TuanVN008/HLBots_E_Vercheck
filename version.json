@@ -1,6 +1,6 @@
 {
-    "version": "V23.9.5",
-    "message": "1. Fix captcha\n2. If automatic update fails, please visit https://hlbots.net/ to update manually",
+    "version": "V23.9.6",
+    "message": "1. Fix coordinates\n2. If automatic update fails, please visit https://hlbots.net/ to update manually",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
