@@ -1,6 +1,6 @@
 {
-    "version": "V23.9.7",
-    "message": "1. Fix gather gem in kvk map\n2. If automatic update fails, please visit https://hlbots.net/ to update manually",
+    "version": "V24.3",
+    "message": "1. Update feature to limit account locking and ban soldiers, will continue to optimize further\n2. If automatic update fails, please visit https://hlbots.net/ to update manually",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
