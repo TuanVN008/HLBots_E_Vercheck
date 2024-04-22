@@ -1,6 +1,6 @@
 {
-    "version": "V24.3",
-    "message": "1. Update feature to limit account locking and ban soldiers, will continue to optimize further\n2. If automatic update fails, please visit https://hlbots.net/ to update manually",
+    "version": "V24.4",
+    "message": "1. Change the zoom mechanism, select ldconsole again and restart the emulator\n2. Update feature to limit account locking and ban soldiers, will continue to optimize further\n3. If automatic update fails, please visit https://hlbots.net/ to update manually",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
