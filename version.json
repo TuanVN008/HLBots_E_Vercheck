@@ -1,6 +1,6 @@
 {
-    "version": "V24.5",
-    "message": "1. Change the zoom mechanism\n2. Update feature to limit account locking and ban soldiers, will continue to optimize further\n3. If automatic update fails, please visit https://hlbots.net/ to update manually",
+    "version": "V24.6",
+    "message": "1. Fix game update\n2. Update feature to limit account locking and ban soldiers, will continue to optimize further\n3. If automatic update fails, please visit https://hlbots.net/ to update manually",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
