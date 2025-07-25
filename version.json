@@ -1,6 +1,6 @@
 {
-    "version": "V24.7",
-    "message": "1. Fix game update\n2. Update feature to limit account locking and ban soldiers, will continue to optimize further\n3. If automatic update fails, please visit https://hlbots.net/ to update manually",
+    "version": "V25",
+    "message": "1. Fix game update\n2. If automatic update fails, please visit https://hlbots.net/how-to-update/ to update manually",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
