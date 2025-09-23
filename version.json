@@ -1,6 +1,6 @@
 {
-    "version": "V25.1",
-    "message": "1. Fix game update\n2. Fix Gather Gem \n3. Fix Alliance\n4. If automatic update fails, please visit https://hlbots.net/how-to-update/ to update manually",
+    "version": "V25.2",
+    "message": "1. Fix game update\n2. Fix receive daily gifts and vip points\n3. Add timer feature to turn bot on and off",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
