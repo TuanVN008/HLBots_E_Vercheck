@@ -1,6 +1,6 @@
 {
-    "version": "V25.2",
-    "message": "1. Fix game update\n2. Fix receive daily gifts and vip points\n3. Add timer feature to turn bot on and off",
+    "version": "V25.3",
+    "message": "1. Fix gather gem",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
