@@ -1,6 +1,6 @@
 {
-    "version": "V25.6",
-    "message": "1. Fix",
+    "version": "V25.7",
+    "message": "1. Fix zoom",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
