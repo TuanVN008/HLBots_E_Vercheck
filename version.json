@@ -1,6 +1,6 @@
 {
-    "version": "V25.7",
-    "message": "1. Fix zoom",
+    "version": "V25.8",
+    "message": "1. Fix open bot",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
